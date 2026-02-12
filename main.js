@@ -20,6 +20,6 @@ applyBtn.addEventListener('click', () => {
     
     // Redirect immediately for CPA conversion
     setTimeout(() => {
-        window.location.href = 'https://kdmjzwq.com/cl/f143590bb1b13fe9';
+        window.location.href = 'https://kdmjzwq.com/cl/558397a63c133baa';
     }, 1500);
 });
